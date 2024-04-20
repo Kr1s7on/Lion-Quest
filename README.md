@@ -14,8 +14,13 @@ The primary goal is to create a fun and engaging game to encourage more tourists
 
 **Lion Quest** is an interactive adventure that begins at Changi Airport. A captivating cutscene welcomes players to Singapore. After passing through immigration, a friendly guide introduces game controls, prompting exploration. Navigate to the MRT station, where a map reveals destinations. Visit landmarks, and interact with tour guides who reward players with collectible badges. Upon earning all badges, receive a notification about the departing flight. Conclude the game by returning to the airport, and interacting with the guide for closure. An end screen marks the completion of the Singapore exploration journey.
 
-## Demo
-<img src="https://github.com/Kr1s7on/Lion-Quest-IT204F-Group-Project/assets/148928086/2fa5751d-2c27-41b5-aec1-3c2128514fc5" alt="Image" width="360">
+## Snapshots
+<img src="https://github.com/Kr1s7on/Lion-Quest-IT204F-Group-Project/assets/148928086/576b9c50-0245-441f-9314-5e60562bbab4" width="300">
+<img src="https://github.com/Kr1s7on/Lion-Quest-IT204F-Group-Project/assets/148928086/6231a824-c06c-4136-8b11-c6d5c6460e0f" width="300">
+<img src="https://github.com/Kr1s7on/Lion-Quest-IT204F-Group-Project/assets/148928086/7cdb0804-2efa-4d23-8b6f-bf5ac7b1084e" width="300">
+<img src="https://github.com/Kr1s7on/Lion-Quest-IT204F-Group-Project/assets/148928086/823a562a-57d3-4c26-8cc3-1d6f398226ce" width="300">
+<img src="https://github.com/Kr1s7on/Lion-Quest-IT204F-Group-Project/assets/148928086/5673f0a9-cc52-44ae-8800-6284957811ce" width="300">
+<img src="https://github.com/Kr1s7on/Lion-Quest-IT204F-Group-Project/assets/148928086/1e41acee-c028-43c6-881d-205e82dbc7ff" width="300">
 
 ## How to Play
 
