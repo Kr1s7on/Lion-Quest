@@ -1,4 +1,3 @@
-# Lion Quest
 ![image](https://github.com/Kr1s7on/Lion-Quest-IT204F-Group-Project/assets/148928086/ce6012af-5767-4eb1-9ab5-f69c4ed53141)
 
 ## Introduction: Background and Objectives
